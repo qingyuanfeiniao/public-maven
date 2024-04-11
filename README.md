@@ -1,2 +1,2 @@
 # public-maven
-git-mavne公共仓库
+github-mavne公共仓库
